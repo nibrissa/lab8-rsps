@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="labs8.jnlp">
+  <information>
+    <title>Agreements</title>
+    <vendor>Unknown</vendor>
+    <description>labs8</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="labs8.jar" size="52945" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="com.example.labs8.MainApplication"  name="labs8" />
+  <update check="background"/>
+</jnlp>

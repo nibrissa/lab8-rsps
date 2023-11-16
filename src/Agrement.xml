@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Agreements>
+    <Agrement>
+        <client>ПАО "Солидное счастье"</client>
+        <dateclose>09.10.2023</dateclose>
+        <dateopen>02.10.2023</dateopen>
+        <number>E1232FG</number>
+        <status>Завершен</status>
+        <type>Предварительный </type>
+    </Agrement>
+    <Agrement>
+        <client>ООО "ТЕХНИК"</client>
+        <dateclose>03.10.2023</dateclose>
+        <dateopen>01.10.2023</dateopen>
+        <number>Р51232</number>
+        <status>Завершен</status>
+        <type>Безвозмездный</type>
+    </Agrement>
+    <Agrement>
+        <client>ООО "Зрение"</client>
+        <dateclose>25.12.2023</dateclose>
+        <dateopen>09.10.2023</dateopen>
+        <number>Е3234А55</number>
+        <status>В работе</status>
+        <type>Двухсторонний</type>
+    </Agrement>
+    <Agrement>
+        <client>ООО "Кодекс"</client>
+        <dateclose>14.01.2024</dateclose>
+        <dateopen>27.11.2023</dateopen>
+        <number>B23111</number>
+        <status>Подготовка</status>
+        <type>Публичный</type>
+    </Agrement>
+</Agreements>
